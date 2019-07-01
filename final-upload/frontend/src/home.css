@@ -1,0 +1,45 @@
+.homeContainer{
+  margin-top: 100px;;
+}
+.cards{
+
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+
+.card-1{
+width: 300px;
+margin:auto;
+padding:20px;
+
+}
+.card-main{
+  width:100%;
+  margin:auto;
+
+
+}
+.card-2{
+  width:300px;
+  margin:auto;
+  padding:20px;
+
+
+}
+
+.card-3{
+  width:300px;
+  margin:auto;
+  padding:20px;
+
+
+}
+
+.Logout{
+  display: flex;
+  flex-direction: row-reverse;
+  margin:auto;
+  margin-top: 50px;
+
+}
